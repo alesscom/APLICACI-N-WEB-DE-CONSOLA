@@ -1,0 +1,15 @@
+console.log("mi primer proyecto de consola");
+var nombre ="alessandro";
+var apellido ="sivieri";
+var nombrecompleto =nombre.concat(apellido);
+console.log(nombrecompleto);
+var a = 10;
+var b = 5;
+var suma = a+b;
+console.log(suma);
+var resta = a-b;
+console.log(resta);
+var mult = a*b;
+console.log(mult);
+var div = a/b;
+console.log(div);
